@@ -4,6 +4,7 @@ body{
 .one{
     justify-content: space-between;
     display: flex;
+    list-style: none;
 }
 .two{
   text-align: center;
@@ -25,9 +26,8 @@ padding: 20px;
 #five{
   padding: 10px;
 }
-.follow{
-  padding: 80px;
-  text-align: center;
+.container {
+  padding: 0;
 }
 
 
